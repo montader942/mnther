@@ -9,7 +9,7 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/SS7SS/Tepthon",
+    "website": "https://github.com/montader942/mnther",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
